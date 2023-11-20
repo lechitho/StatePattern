@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/StatePattern/.vs/StatePattern
+/StatePattern/StatePattern/bin/Debug
+/StatePattern/StatePattern/obj/Debug
